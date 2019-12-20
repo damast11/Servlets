@@ -1,0 +1,7 @@
+JDBC\dao\JournalMethodsDao.class
+journal\Journal.class
+Servlets\AddRecord.class
+JDBC\entity\Record.class
+JDBC\dao\JournalFilterDao.class
+JDBC\service\JournalService.class
+JDBC\Util.class
